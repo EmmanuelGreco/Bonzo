@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1731534759 source:c:\users\emma\downloads\utn\cpp\integrador-equipo13\main.cpp
+	<iostream>
+	<stdio.h>
+	<locale.h>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	"funcionesBonzo.h"
+
+1731538416 c:\users\emma\downloads\utn\cpp\integrador-equipo13\funcionesbonzo.h
+
+1731534749 source:c:\users\emma\downloads\utn\cpp\integrador-equipo13\funcionesbonzo.cpp
+	<iostream>
+	<stdio.h>
+	<locale.h>
+	<windows.h>
+	<iomanip>
+	<limits>
+	<cstdlib>
+	<ctime>
+	"funcionesBonzo.h"
+
+1731507989 source:c:\users\usuario\desktop\utn lourdes\integrador-equipo13\integrador-equipo13\funcionesbonzo.cpp
+	<iostream>
+	<stdio.h>
+	<locale.h>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	"funcionesBonzo.h"
+
+1731477505 c:\users\usuario\desktop\utn lourdes\integrador-equipo13\integrador-equipo13\funcionesbonzo.h
+
+1731481374 source:c:\users\usuario\desktop\utn lourdes\integrador-equipo13\integrador-equipo13\main.cpp
+	<iostream>
+	<stdio.h>
+	<locale.h>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	"funcionesBonzo.h"
+
+1731512983 source:c:\users\ptaqu\onedrive\documents\pedro\utn\1c programación i\tpi\versiones\integrado menu juego\funcionesbonzo.cpp
+	<iostream>
+	<stdio.h>
+	<locale.h>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	"funcionesBonzo.h"
+
+1731511841 c:\users\ptaqu\onedrive\documents\pedro\utn\1c programación i\tpi\versiones\integrado menu juego\funcionesbonzo.h
+
+1731511925 source:c:\users\ptaqu\onedrive\documents\pedro\utn\1c programación i\tpi\versiones\integrado menu juego\main.cpp
+	<iostream>
+	<stdio.h>
+	<locale.h>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	"funcionesBonzo.h"
+
+1731513301 source:c:\users\ptaqu\onedrive\documents\pedro\utn\1c programación i\tpi\versiones\integrador-equipo13 pedro 13_11\funcionesbonzo.cpp
+	<iostream>
+	<stdio.h>
+	<locale.h>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	"funcionesBonzo.h"
+
+1731511841 c:\users\ptaqu\onedrive\documents\pedro\utn\1c programación i\tpi\versiones\integrador-equipo13 pedro 13_11\funcionesbonzo.h
+
+1731511925 source:c:\users\ptaqu\onedrive\documents\pedro\utn\1c programación i\tpi\versiones\integrador-equipo13 pedro 13_11\main.cpp
+	<iostream>
+	<stdio.h>
+	<locale.h>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	"funcionesBonzo.h"
+
+1731529728 source:c:\users\emma\downloads\integrador-equipo13\funcionesbonzo.cpp
+	<iostream>
+	<stdio.h>
+	<locale.h>
+	<windows.h>
+	<iomanip>
+	<limits>
+	<cstdlib>
+	<ctime>
+	"funcionesBonzo.h"
+
+1731527719 c:\users\emma\downloads\integrador-equipo13\funcionesbonzo.h
+
+1731529042 source:c:\users\emma\downloads\integrador-equipo13\main.cpp
+	<iostream>
+	<stdio.h>
+	<locale.h>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	"funcionesBonzo.h"
+
+1731534759 source:c:\users\ptaqu\onedrive\documents\pedro\utn\1c programación i\tpi\versiones\version final 13\main.cpp
+	<iostream>
+	<stdio.h>
+	<locale.h>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	"funcionesBonzo.h"
+
+1731534649 c:\users\ptaqu\onedrive\documents\pedro\utn\1c programación i\tpi\versiones\version final 13\funcionesbonzo.h
+
+1731534749 source:c:\users\ptaqu\onedrive\documents\pedro\utn\1c programación i\tpi\versiones\version final 13\funcionesbonzo.cpp
+	<iostream>
+	<stdio.h>
+	<locale.h>
+	<windows.h>
+	<iomanip>
+	<limits>
+	<cstdlib>
+	<ctime>
+	"funcionesBonzo.h"
+
